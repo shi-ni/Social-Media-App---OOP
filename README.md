@@ -17,7 +17,7 @@
    ```
 
 ## 🎥 Demo Video
-[![Video Thumbnail](./Screenshots/video-thumbnail.jpg)](https://drive.google.com/file/d/1rAAQXLDnvnBILuG0ACuZ9IqBlzixYwlc/view)
+[![Video Thumbnail](./video-thumbnail.jpg)](https://drive.google.com/file/d/1rAAQXLDnvnBILuG0ACuZ9IqBlzixYwlc/view)
 
 **Video Content:**
 - Before 4:23: Code walkthrough (OOP/SQL implementation)
