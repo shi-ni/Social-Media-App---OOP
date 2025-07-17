@@ -15,12 +15,6 @@
    -- Run scripts from /Database/Scripts/
    CREATE DATABASE SocialMedia;
    ```
-2. **Application**:
-   ```bash
-   git clone https://github.com/yourusername/Social-Media-App-OOP.git
-   cd Social-Media-App-OOP/App
-   dotnet run
-   ```
 
 ## 🎥 Demo Video
 [![Video Thumbnail](./Screenshots/video-thumbnail.jpg)](https://drive.google.com/file/d/1rAAQXLDnvnBILuG0ACuZ9IqBlzixYwlc/view)
