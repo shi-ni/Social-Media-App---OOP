@@ -22,8 +22,12 @@
    dotnet run
    ```
 
-## 🎥 Full Demo Video
-<a href="https://drive.google.com/file/d/1rAAQXLDnvnBILuG0ACuZ9IqBlzixYwlc/view" target="_blank">
-  <img src="./Screenshots/video-thumbnail.jpg" alt="Demo Video Thumbnail" width="600">
-</a>
+## 🎥 Demo Video
+[![Video Thumbnail](./Screenshots/video-thumbnail.jpg)](https://drive.google.com/file/d/1rAAQXLDnvnBILuG0ACuZ9IqBlzixYwlc/view)
+
+**Video Content:**
+- Before 4:23: Code walkthrough (OOP/SQL implementation)
+- After 4:23: Live app demonstration with voice explanation
+
+[Watch Now](https://drive.google.com/file/d/1rAAQXLDnvnBILuG0ACuZ9IqBlzixYwlc/view) | [Jump to Demo (4:23)](https://drive.google.com/file/d/1rAAQXLDnvnBILuG0ACuZ9IqBlzixYwlc/view?t=263s)
 
