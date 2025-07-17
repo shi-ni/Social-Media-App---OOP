@@ -30,7 +30,7 @@ CREATE TABLE Posts (
     UserID INT FOREIGN KEY REFERENCES Users(UserID),
     Content TEXT
 );
-
+```
 ## 🎥 Demo Video
 [![Video Thumbnail](./video-thumbnail.jpg)](https://drive.google.com/file/d/1rAAQXLDnvnBILuG0ACuZ9IqBlzixYwlc/view)
 
